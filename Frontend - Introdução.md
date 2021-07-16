@@ -54,3 +54,14 @@ Na linguagem compilada, pegamos um script naquela linguagem e transformar em um 
     - HTML -> JSX: JSX é semelhante ao que escrevemos em HTML, mas é uma adaptação para construir o HTML usando o JavaScript.
     - CSS: linguagem de estilização - define o estilo/estilização da página (cores, tamanhos, etc)
     - JavaScript: linguagem de programação - define o comportamento da página.
+
+
+
+Sites para treinar posicionamento em CSS com flex
+
+- https://flexboxfroggy.com/
+- https://cssgridgarden.com/
+
+Para instalação do elementos router 
+
+-  npm i react-router-dom
